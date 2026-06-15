@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -std=c11 -O2
+CFLAGS = -std=c11 -Wall -Wextra -O2
 
 TARGET = huffman
 
